@@ -26,11 +26,12 @@ The results of this analysis will be presented in a report, which will be includ
 
 ## Code:
 
-The code for this analysis is included in this repository and is written in [language].
+The code for this analysis is included in this repository and is written in python programming language.
 
 ## Requirements:
 
-To run the code in this repository, you will need to have [relevant software/libraries] installed on your machine.
+To run the code in this repository, you will need to have python and the libraries listed under the import library installed on your machine.
+
 
 ## Contributions:
 
